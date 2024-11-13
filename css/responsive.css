@@ -1,0 +1,568 @@
+@media screen and (max-width: 600px) {
+    .Ty2rOne5HarriPers-headerLeftPart > img {
+        width: 250px;
+        height: auto;
+        padding: 20px 10px;
+    }
+
+    .Ty2rOne5HarriPers-headerGrid {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .Ty2rOne5HarriPers-headerLeftPart > h1 {
+        line-height: 34px;
+        font-size: 32px;
+        width: 100%;
+        margin: 20px 0px;
+    }
+    
+    .Ty2rOne5HarriPers-headerRightPart {
+        height: 500px;
+        width: 100%;
+    }
+
+    .Ty2rOne5HarriPers-philosophy {
+        padding: 30px 0px;
+    }
+
+    h2.Ty2rOne5HarriPers-philosophyTitle {
+        font-size: 40px;
+        padding-bottom: 0px;
+    }
+
+    .carousel-container {
+        margin: 20px 0px 0px 0px;
+    }
+
+    .carousel-indicator.left {
+        left: -10px !important;
+        z-index: 99;
+    }
+
+    .carousel-indicator.left > img {
+        width: 18px;
+        border-radius: 50px;
+    }
+
+    .carousel-indicator.left {
+        background: #ffffff;
+        box-shadow: 0px 2px 33px 6px #100f0f57;
+    }
+
+    .carousel-indicator {
+        width: 30px;
+        height: 30px;
+    }
+
+    .carousel-indicator.right {
+        right: -10px !important;
+    }
+
+    .carousel-indicator.right {
+        right: -10px !important;
+        z-index: 99;
+    }
+
+    .carousel-indicator.right > img {
+        width: 18px;
+        border-radius: 50px;
+    }
+
+    .carousel-indicator.right {
+        background: #ffffff;
+        box-shadow: 0px 2px 33px 6px #100f0f57;
+    }
+
+    .item img {
+        height: 400px;
+    }
+
+    .Ty2rOne5HarriPers-philosophyInstaLink a {
+        line-height: 20px;
+        font-size: 28px;
+        padding: 0px;
+    }
+
+    .Ty2rOne5HarriPers-aboutWrapper {
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .Ty2rOne5HarriPers-aboutRight {
+        padding: 40px 15px 20px 15px;
+    }
+
+    .Ty2rOne5HarriPers-aboutRight > h2 {
+        line-height: normal;
+        font-size: 42px;
+        padding-bottom: 12px;
+    }
+
+    .Ty2rOne5HarriPers-aboutRight > p {
+        line-height: 28px;
+        font-size: 20px;
+        padding-bottom: 0px;
+    }
+
+    .Ty2rOne5HarriPers-aboutGallery {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .Ty2rOne5HarriPers-philosophyInstaLink a > .instagram-icon {
+        padding: 0px 8px;
+        font-size: 28px;
+    }
+
+    .Ty2rOne5HarriPers-aboutGallery > img {
+        width: 100%;
+        height: 205px;
+    }
+
+    h2.Ty2rOne5HarriPers-serviceTitle {
+        line-height: 44px;
+        font-size: 42px;
+        padding-bottom: 12px;
+    }
+
+    .Ty2rOne5HarriPers-serviceMail > p {
+        font-weight: 300;
+        line-height: 32px;
+        font-size: 20px;
+        padding-bottom: 0px;
+        margin: 0px;
+    }
+
+    .Ty2rOne5HarriPers-serviceMail > p > a {
+        font-size: 28px;
+    }
+
+    h2.Ty2rOne5HarriPers-reviewTitle {
+        line-height: 40px;
+        font-size: 42px;
+        padding-bottom: 20px;
+    }
+
+    .Ty2rOne5HarriPers-service {
+        padding: 30px 0px;
+    }
+
+    .Ty2rOne5HarriPers-reviewImg > img {
+        width: 38px;
+    }
+
+    .Ty2rOne5HarriPers-reviewText > p {
+        line-height: 22px;
+        font-size: 16px;
+        padding-bottom: 6px;
+        margin: 0px;
+    }
+
+    .Ty2rOne5HarriPers-reviewText > small {
+        line-height: 32px;
+        font-size: 16px;
+        padding-bottom: 0px;
+        margin: 0px;
+    }
+
+    .Ty2rOne5HarriPers-reviewImg {
+        top: -4px;
+    }
+
+    .Ty2rOne5HarriPers-reviewContext {
+        gap: 8px;
+        padding: 8px 0px;
+    }
+
+    button.myBtn {
+        line-height: 40px;
+        font-size: 32px;
+    }
+
+    #mc_embed_signup .button {
+        float: unset;
+    }
+
+    .Ty2rOne5HarriPers-footerContext > p {
+        line-height: 25px;
+        font-size: 26px;
+        padding: 10px 0px 0px  0px;
+    }
+
+    #mc_embed_signup .mc-field-group input {
+        width: 100% !important;
+        padding: 8px 0;
+    }
+
+    #mc_embed_signup .indicates-required {
+        text-align: right !important;
+        font-size: 11px !important;
+        margin-right: 0% !important;
+        padding: 8px 0px !important;
+    }
+
+    .Ty2rOne5HarriPers-footer {
+        padding: 30px 0px 20px 0px;
+        overflow-x: hidden;
+    }
+
+    h2.subscribeTitle {
+        font-size: 40px !important;
+        padding: 10px 0px 0px 0px;
+    }
+
+    .Ty2rOne5HarriPers-review {
+        padding: 40px 0px 70px 0px;
+    }
+
+    .Ty2rOne5HarriPers-aboutMe {
+        padding: 25px 0px 0px 0px;
+    }
+
+    .Ty2rOne5HarriPers-header {
+        height: auto;
+    }
+
+    .Ty2rOne5HarriPers-footerContext > p {
+        line-height: 20px;
+        font-size: 18px;
+        padding: 10px 0px 0px  0px;
+    }
+
+    br.f-b {
+        display: none;
+    }
+
+    #mc_embed_signup form {
+        display: block;
+        position: relative;
+        text-align: unset !important;
+        margin: 0px !important;
+    }
+
+    #mc_embed_signup .mc-field-group label {
+        margin-bottom: 3px;
+        font-size: 20px;
+        padding-bottom: 0px;
+    }
+
+    #mc_embed_signup .mc-field-group input {
+        padding: 10px 0 !important;
+        outline: 0px !important;
+        border: 0px !important;
+        margin-bottom: 8px;
+    }
+
+    #mc_embed_signup {
+        width: 100% !important;
+    }
+}
+
+
+
+@media only screen and (max-width: 868px) and (min-width: 601px){
+    .Ty2rOne5HarriPers-headerLeftPart > h1 {
+        line-height: 50px;
+        font-size: 42px;
+        width: 100%;
+    }
+
+    h2.Ty2rOne5HarriPers-philosophyTitle {
+        font-size: 50px;
+        padding-bottom: 0px;
+    }
+
+    .Ty2rOne5HarriPers-aboutMe {
+        padding: 30px 0px 0px 0px;
+    }
+
+    .Ty2rOne5HarriPers-philosophy {
+        padding: 40px 0px;
+    }
+
+    .Ty2rOne5HarriPers-aboutWrapper {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .Ty2rOne5HarriPers-aboutLeft {
+        height: 500px;
+    }
+
+    .Ty2rOne5HarriPers-aboutGallery > img {
+        width: 100%;
+        height: 235px;
+    }
+
+    #mc_embed_signup {
+        width: 100% !important;
+    }
+
+    .Ty2rOne5HarriPers-footerContext > p {
+        line-height: 30px;
+        font-size: 28px;
+        padding: 10px 5px 0px 5px;
+    }
+
+    .carousel-indicator.left > img {
+        width: 26px;
+    }
+
+    .carousel-container {
+        margin: 40px auto 0px 0px;
+    }
+
+    .Ty2rOne5HarriPers-aboutRight > p {
+        line-height: 36px;
+        font-size: 20px;
+        padding-bottom: 0px;
+    }
+
+    h2.Ty2rOne5HarriPers-serviceTitle {
+        line-height: 50px;
+        font-size: 50px;
+        padding-bottom: 10px;
+    }
+
+    .Ty2rOne5HarriPers-service {
+        padding: 50px 0px;
+    }
+
+    h2.Ty2rOne5HarriPers-reviewTitle {
+        line-height: 50px;
+        font-size: 50px;
+        padding-bottom: 20px;
+    }
+
+    .Ty2rOne5HarriPers-reviewImg > img {
+        width: 70px;
+    }
+
+    .Ty2rOne5HarriPers-review {
+        padding: 40px 0px 80px 0px;
+    }
+
+    .Ty2rOne5HarriPers-reviewText > p {
+        line-height: 24px;
+        font-size: 17px;
+        padding-bottom: 10px;
+    }
+
+    h2.subscribeTitle {
+        line-height: 36px;
+        font-size: 32px !important;
+        padding: 0px 10px 0px 10px;
+    }
+
+    .Ty2rOne5HarriPers-aboutRight > h2 {
+        line-height: 45px;
+        font-size: 50px;
+        padding-bottom: 10px;
+    }
+
+    .carousel-indicator.right > img {
+        width: 26px;
+    }
+
+    .carousel-indicator.right {
+        right: -30px !important;
+        z-index: 99;
+        background: #fff;
+        box-shadow: 0px 2px 33px 6px #100f0f57;
+    }
+
+    .carousel-indicator.left {
+        left: -30px !important;
+        z-index: 99;
+        background: aliceblue;
+        box-shadow: 0px 2px 33px 6px #100f0f57;
+    }
+
+    .Ty2rOne5HarriPers-aboutRight {
+        padding: 40px;
+    }
+
+    .Ty2rOne5HarriPers-serviceMail > p {
+        font-size: 26px;
+    }
+
+    .Ty2rOne5HarriPers-headerLeftPart > img {
+        width: 320px;
+    }
+}
+
+
+
+@media only screen and (max-width: 400px) and (min-width: 300px){
+    h2.Ty2rOne5HarriPers-philosophyTitle {
+        font-size: 36px;
+    }
+
+    h2.Ty2rOne5HarriPers-serviceTitle {
+        line-height: 34px;
+        font-size: 36px;
+    }
+
+    h2.Ty2rOne5HarriPers-reviewTitle {
+        line-height: 36px;
+        font-size: 36px;
+        padding-bottom: 18px;
+    }
+
+    .Ty2rOne5HarriPers-footerContext > p {
+        line-height: 20px;
+        font-size: 16px;
+        padding: 15px 0px 0px  0px;
+    }
+
+    .Ty2rOne5HarriPers-philosophyInstaLink a {
+        line-height: 20px;
+        font-size: 24px;
+        padding: 0px;
+    }
+
+    .Ty2rOne5HarriPers-aboutRight > p {
+        line-height: 26px;
+        font-size: 18px;
+        padding-bottom: 0px;
+    }
+
+    .Ty2rOne5HarriPers-headerLeftPart > h1 {
+        line-height: 34px;
+        font-size: 30px;
+        width: 100%;
+        margin: 20px 0px;
+        padding: 0px 15px;
+    }
+
+    .Ty2rOne5HarriPers-serviceMail > p {
+        line-height: 28px;
+        font-size: 18px;
+    }
+
+    .Ty2rOne5HarriPers-serviceMail > p > a {
+        font-size: 18px;
+    }
+
+    .Ty2rOne5HarriPers-serviceMail > p > span {
+        font-size: 24px;
+    }
+}
+
+
+
+@media only screen and (max-width: 1200px) and (min-width: 947px){
+    #mc_embed_signup {
+        width: 100% !important;
+    }
+
+    .carousel-indicator.right > img {
+        width: 36px;
+    }
+
+    .carousel-indicator.left > img {
+        width: 36px;
+    }
+
+    .carousel-indicator.right {
+        right: -40px !important;
+    }
+
+    .Ty2rOne5HarriPers-review {
+        padding: 50px 0px 80px 0px;
+    }
+
+    .Ty2rOne5HarriPers-service {
+        background: rgb(6, 7, 36);
+        padding: 50px 0px;
+    }
+
+    h2.Ty2rOne5HarriPers-reviewTitle {
+        font-size: 54px;
+        padding-bottom: 20px;
+    }
+
+    h2.Ty2rOne5HarriPers-philosophyTitle {
+        font-size: 54px;
+        padding-bottom: 0px;
+    }
+
+    .Ty2rOne5HarriPers-philosophy {
+        padding: 60px 0px 50px 0px;
+    }
+
+    .Ty2rOne5HarriPers-aboutRight > h2 {
+        font-size: 54px;
+        padding-bottom: 20px;
+    }
+
+    .Ty2rOne5HarriPers-headerLeftPart > img {
+        width: 350px;
+        height: auto;
+        padding: 50px 0px 50px 0px;
+    }
+
+    #mc_embed_signup .mc-field-group {
+        width: 100% !important;
+    }
+
+    h2.Ty2rOne5HarriPers-serviceTitle {
+        font-size: 54px;
+        padding-bottom: 20px;
+    }
+
+    .carousel-indicator.left {
+        left: -40px !important;
+    }
+
+    .Ty2rOne5HarriPers-aboutRight {
+        padding: 60px 60px 40px 60px;
+    }
+
+    .Ty2rOne5HarriPers-aboutGallery > img {
+        width: 100%;
+        height: 280px;
+    }
+
+    .Ty2rOne5HarriPers-reviewImg > img {
+        width: 80px;
+    }
+
+    .Ty2rOne5HarriPers-reviewText > p {
+        line-height: 25px;
+        font-size: 16px;
+        padding-bottom: 8px;
+    }
+}
+
+
+
+@media only screen and (max-width: 1300px) and (min-width: 1201px){
+    .carousel-indicator.right {
+        right: -52px !important;
+    }
+    .carousel-indicator.left {
+        left: -52px !important;
+    }
+}
+
+
+@media only screen and (max-width: 2600px) and (min-width: 1600px){
+    .Ty2rOne5HarriPers-aboutGallery > img {
+        width: 100%;
+        height: 540px;
+    }
+
+    .Ty2rOne5HarriPers-aboutRight > p {
+        line-height: 50px;
+        font-size: 34px;
+        padding-bottom: 10px;
+    }
+
+    .Ty2rOne5HarriPers-aboutLeft {
+        height: 500px;
+    }
+
+    .Ty2rOne5HarriPers-aboutRight {
+        padding: 80px 140px 60px 140px;
+    }
+}

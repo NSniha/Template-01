@@ -1,0 +1,482 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "League Spartan", sans-serif;
+}
+
+
+/* ---------------------------------
+    Header Section Start
+------------------------------------ */
+.Ty2rOne5HarriPers-header{
+    background-image: url('../images/header-background.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 830px;
+    width: 100%;
+}
+
+.Ty2rOne5HarriPers-headerGrid{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+
+}
+
+.Ty2rOne5HarriPers-headerLeftPart {
+    text-align: center;
+}
+
+.Ty2rOne5HarriPers-headerLeftPart > img{
+    width: 380px;
+    height: auto;
+    padding: 50px 0px 50px 0px;
+}
+
+.Ty2rOne5HarriPers-headerLeftPart > h1{
+    font-weight: 700;
+    line-height: 50px;
+    color: rgb(237, 236, 237);
+    text-decoration: none;
+    font-size: 52px;
+    width: 470px;
+    margin: 0 auto;
+}
+
+.Ty2rOne5HarriPers-headerRightPart{
+    background-image: url('../images/hannes-egler-unsplash.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 830px;
+    width: 100%;
+    background-position: top 80% center;
+}
+/* --------------------------------
+    Header Section End
+------------------------------------ */
+
+
+
+/* ---------------------------------
+    Philosophy Section Start
+------------------------------------- */
+.Ty2rOne5HarriPers-philosophy{
+    padding: 80px 0px 50px 0px;
+}
+
+h2.Ty2rOne5HarriPers-philosophyTitle{
+    font-weight: 700;
+    line-height: 50px;
+    color: rgb(6, 7, 36);
+    text-decoration: none;
+    font-size: 62px;
+    padding-bottom: 10px;
+}
+
+.carousel-container {
+    position: relative;
+    max-width: 100%;
+    margin: 40px auto 20px 0px;
+}
+
+.item {
+    position: relative;
+    overflow: hidden;
+    border-radius: 0px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.item img {
+    display: block;
+    width: 100%;
+    height: 365px;
+}
+
+.carousel-indicator {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: rgba(0, 0, 0, 0);
+    color: rgb(0, 0, 0);
+    border: none;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    font-size: 60px !important;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.carousel-indicator.left {
+    left: -66px !important;
+}
+
+.carousel-indicator.right {
+    right: -60px !important;
+}
+
+.lb-data .lb-number {
+    display: block;
+    clear: left;
+    padding-bottom: 1em;
+    font-size: 12px;
+    color: #999; 
+    display: none !important;
+}
+
+.lb-nav a.lb-prev {
+    opacity: 1 !important;
+}
+
+.lb-nav a.lb-next {
+    opacity: 1 !important;
+}
+
+.lb-overlay {
+    position: fixed !important;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+    background: rgb(0, 0, 0); 
+}
+
+.lb-image {
+    position: fixed !important;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.lb-close {
+    position: fixed !important;
+    top: 20px;
+    right: 20px;
+    color: white; 
+    font-size: 30px; 
+    cursor: pointer;
+    z-index: 1050;
+}
+
+.lb-nav a.lb-prev, .lb-nav a.lb-next {
+    opacity: 0 !important;
+}
+
+.lb-outerContainer {
+    position: relative;
+    width: 250px;
+    height: 250px;
+    margin: 0 auto;
+    border-radius: 4px;
+    background-color: #ffffff00 !important;
+}
+
+.carousel-indicator.right > img{
+    width: 56px;
+}
+
+.carousel-indicator.left > img{
+    width: 56px;
+}
+
+.Ty2rOne5HarriPers-philosophyInstaLink{
+    text-align: center
+}
+
+.Ty2rOne5HarriPers-philosophyInstaLink a{
+    font-weight: 400;
+    line-height: 30px;
+    color: rgb(6, 7, 36) !important;
+    text-decoration: none;
+    font-size: 34px;
+    padding-bottom: 10px;
+    font-family: "Inter", sans-serif;
+}
+
+.Ty2rOne5HarriPers-philosophyInstaLink a > .instagram-icon {
+    position: relative;
+    top: 5px;
+    padding: 0px 14px;
+    font-size: 38px;
+}
+/* -----------------------------------
+    Philosophy Section End
+--------------------------------------- */
+
+
+
+/* -------------------------------------
+    About Me
+---------------------------------------- */
+.Ty2rOne5HarriPers-aboutMe{
+    padding: 50px 0px 0px 0px;
+}
+
+.Ty2rOne5HarriPers-aboutWrapper{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    background: rgb(237, 236, 237);
+}
+
+.Ty2rOne5HarriPers-aboutLeft{
+    background: url('../images/TH25.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 400px;
+}
+
+.Ty2rOne5HarriPers-aboutRight{
+    padding: 80px 70px 60px 70px;
+}
+
+.Ty2rOne5HarriPers-aboutRight > h2{
+    font-weight: 700;
+    line-height: 50px;
+    color: rgb(6, 7, 36);
+    font-size: 62px;
+    padding-bottom: 20px;
+}
+
+.Ty2rOne5HarriPers-aboutRight > p{
+    font-weight: 400;
+    line-height: 38px;
+    color: rgb(6, 7, 36) !important;
+    text-decoration: none;
+    font-size: 26px;
+    padding-bottom: 10px;
+    font-family: "Inter", sans-serif;
+}
+
+.Ty2rOne5HarriPers-aboutGallery{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
+
+.Ty2rOne5HarriPers-aboutGallery > img{
+    width: 100%;
+    height: 325px;
+}
+/* ---------------------------------------
+    About End
+----------------------------------------- */
+
+
+
+/* -----------------------------------------
+    Service Section Start
+-------------------------------------------- */
+.Ty2rOne5HarriPers-service{
+    background: rgb(6, 7, 36);
+    padding: 80px 0px;
+}
+
+h2.Ty2rOne5HarriPers-serviceTitle{
+    font-weight: 700;
+    line-height: 50px;
+    color: rgb(237, 236, 237);
+    font-size: 62px;
+    padding-bottom: 20px;
+}
+
+.Ty2rOne5HarriPers-serviceMail{
+    text-align: center;
+}
+
+.Ty2rOne5HarriPers-serviceMail > p{
+    font-weight: 300;
+    line-height: 32px;
+    color: rgb(237, 236, 237);
+    text-decoration: none;
+    font-size: 30px;
+    padding-bottom: 0px;
+    margin: 0px;
+    font-family: "Inter", sans-serif;
+}
+
+.Ty2rOne5HarriPers-serviceMail > p > span{
+    font-weight: 600;
+    font-size: 34px;
+}
+
+.Ty2rOne5HarriPers-serviceMail > p > a{
+    color: rgb(237, 236, 237) !important;
+    text-decoration: none;
+    font-size: 30px;
+}
+/* ---------------------------------------
+    Service Section End
+------------------------------------------ */
+
+
+
+/* -----------------------------------------
+    Review Section Start
+------------------------------------------- */
+.Ty2rOne5HarriPers-review{
+    padding: 80px 0px;
+    background: rgb(237, 236, 237);
+}
+
+h2.Ty2rOne5HarriPers-reviewTitle{
+    font-weight: 700;
+    line-height: 50px;
+    color: rgb(6, 7, 36);
+    font-size: 62px;
+    padding-bottom: 30px;
+}
+
+.Ty2rOne5HarriPers-reviewContext {
+    display: flex;
+    gap: 20px;
+    padding: 15px 0px;
+    align-items: flex-start;
+}
+
+.Ty2rOne5HarriPers-reviewImg {
+    position: relative;
+    top: -12px;
+}
+
+.Ty2rOne5HarriPers-reviewImg > img{
+    width: 100px;
+}
+
+.Ty2rOne5HarriPers-reviewText > p{
+    font-weight: 300;
+    line-height: 28px;
+    color: rgb(6, 7, 36);
+    text-decoration: none;
+    font-size: 20px;
+    padding-bottom: 8px;
+    margin: 0px;
+    text-align: justify;
+    font-family: "Inter", sans-serif;
+}
+
+.Ty2rOne5HarriPers-reviewText > small{
+    font-weight: 800;
+    line-height: 32px;
+    color: rgb(6, 7, 36);
+    text-decoration: none;
+    font-size: 18px;
+    padding-bottom: 0px;
+    margin: 0px;
+    font-family: "Inter", sans-serif;
+    text-transform: uppercase;
+}
+
+p.Ty2rOne5HarriPers-click{
+    font-weight: 600;
+    line-height: 50px;
+    color: rgb(6, 7, 36);
+    text-decoration: none;
+    font-size: 34px;
+    float: right;
+}
+
+.more { display: none; }
+  
+button.myBtn {
+    border: none;
+    outline: none;
+    background: none;
+    font-weight: 600;
+    line-height: 50px;
+    color: rgb(6, 7, 36);
+    text-decoration: none;
+    font-size: 34px;
+    cursor: pointer;
+    float: right;
+}
+
+.underline {
+    text-decoration: underline;
+}
+/* ----------------------------------------
+    Review Section End
+-------------------------------------------- */
+
+
+
+/* -----------------------------------------
+    Footer Start
+------------------------------------------- */
+.Ty2rOne5HarriPers-footer{
+    background: rgb(200, 47, 47);
+    padding: 60px 0px 20px 0px;
+}
+
+.Ty2rOne5HarriPers-footerContext > img{
+    width: 100%;
+}
+
+.Ty2rOne5HarriPers-footerContext > p{
+    font-weight: 700;
+    line-height: 36px;
+    color: rgb(6, 7, 36);
+    font-size: 36px;
+    padding: 10px 10px 0px 10px;
+    text-align: center;
+}
+
+.Ty2rOne5HarriPers-footerContext > p > a{
+    color: rgb(6, 7, 36);
+}
+
+h2.subscribeTitle{
+    font-weight: 700;
+    line-height: 36px;
+    color: rgb(6, 7, 36);
+    font-size: 42px !important;
+    padding: 10px 10px 0px 10px;
+}
+
+.indicates-required{
+    color: #fff;
+    font-size: 15px !important;
+}
+
+.asterisk {
+    color: #f1a61a !important;
+    font-size: 26px !important;
+}
+
+#mc_embed_signup .mc-field-group input {
+    padding: 14px 0 !important;
+    outline: 0px !important;
+    border: 0px !important;
+    margin-bottom: 12px;
+}
+
+#mc_embed_signup .mc-field-group label {
+    display: block;
+    margin-bottom: 3px;
+    color: rgb(237 236 237);
+    font-size: 26px;
+    padding-bottom: 8px;
+    font-weight: 500;
+}
+
+#mc_embed_signup .button {
+    clear: both;
+    background-color: #ffffff !important;
+    border: 3px solid black !important;
+    border-radius: 50px !important;
+    color: #000000 !important;
+    font-size: 24px !important;
+    height: 50px !important;
+    padding: 0 40px !important;
+    font-weight: 700 !important;
+    outline: 0px !important;
+    float: right;
+    margin: 15px 15px 10px 0 !important;
+}
+/* -----------------------------------------
+    Footer End
+-------------------------------------------- */
